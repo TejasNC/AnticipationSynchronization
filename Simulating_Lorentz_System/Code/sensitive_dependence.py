@@ -70,7 +70,7 @@ ax.set_ylabel('Y')
 ax.set_zlabel('Z')
 ax.legend()
 plt.show()
-ani.save('../Results/sensitive_dependence.gif', fps=50)
+ani.save('sensitive_dependence.gif', fps=50)
 # --------------------------------------------------------------------------------
 # Plotting the Time Series
 

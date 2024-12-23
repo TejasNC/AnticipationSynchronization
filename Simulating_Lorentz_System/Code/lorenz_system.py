@@ -63,6 +63,9 @@ for r in r_values[:2]:
     ax.set_xlabel('X')
     ax.set_ylabel('Y')
     ax.set_zlabel('Z')
+
+    # SHow the animation
+    # plt.show()
     animation.save(f'loretz_system_animation_r={r}.gif', fps = 60) 
 
     # --------------------------------------------------------------------------------
