@@ -32,7 +32,7 @@ The Kuramoto model demonstrates how synchronization can emerge in a system of os
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TejasNC/.git
+    git clone https://github.com/TejasNC/AnticipationSynchronization.git
     cd Simulating_Kuramoto
     ```
 
