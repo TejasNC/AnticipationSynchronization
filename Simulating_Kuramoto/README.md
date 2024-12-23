@@ -16,9 +16,9 @@ This repository contains code for simulating the Kuramoto model, a mathematical 
 
 The Kuramoto model is a set of coupled differential equations used to describe the synchronization of a large set of oscillators. Each oscillator has its own natural frequency, and they are coupled through a sine function of their phase differences. The model is given by:
 
-$
+$$
     \frac{d\theta_i}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^{N} \sin(\theta_j - \theta_i) 
-$
+$$
 
 where:
 - $\theta_i$ is the phase of the \(i\)-th oscillator,
